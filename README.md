@@ -13,10 +13,10 @@
 - vvot20-photo-trigger(сервисный аккаунт: run-face-detection-fun)
 - vvot20-task-trigger(сервисный аккаунт: send-to-face-cut-container)
 ### Функции
-- vvot20-face-detection(сервисный аккаунт: face-detection-fun, код: functions/PhotoFunction.py)
-- boot-fun(сервисный аккаунт: boot-fun, код: functions/BootFunction.py)
+- vvot20-face-detection(сервисный аккаунт: face-detection-fun, код: [PhotoFunction.py](https://github.com/ElviraKhazieva/CloudHw2/blob/main/functions/PhotoFunction.py))
+- boot-fun(сервисный аккаунт: boot-fun, код: [BootFunction.py] (https://github.com/ElviraKhazieva/CloudHw2/blob/main/functions/BootFunction.py))
 ### Контейнер
-- vvot20-face-cut(сервисный аккаунт: vvot20-face-cut-container, код: container)  
+- vvot20-face-cut(сервисный аккаунт: vvot20-face-cut-container, код: [container] (https://github.com/ElviraKhazieva/CloudHw2/tree/main/container))  
 ### API-шлюз
 - mr-gateway(сервисный аккаунт: vvot20-api-gateway)
 
